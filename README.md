@@ -50,42 +50,42 @@ The following chart shows the percentage of successful/failed/cancelled campaign
 
 ### Challenges and Difficulties Encountered
 
--Data included campaigns from several categories taken at different time of the year across various countries. Data needed sorting and filtering as the first step so that only important information pertaining to our needs can be further analysed. With so many different aspects of a campaign, it became difficult to determine which columns are important and which one can be dropped.
+   * Data included campaigns from several categories taken at different time of the year across various countries. Data needed sorting and filtering as the first step so that only important information pertaining to our needs can be further analysed. With so many different aspects of a campaign, it became difficult to determine which columns are important and which one can be dropped.
 
--The dates for Launch and Deadline for the campaigns were in Unix timestamp format - new format I learnt while doing this project. It needed to be converted in a standard date format to be able to derive results.
+   * The dates for Launch and Deadline for the campaigns were in Unix timestamp format - new format I learnt while doing this project. It needed to be converted in a standard date format to be able to derive results.
 
--There were few outliers in the data due to which conditional formatting on Percentage funded didn’t show strong conclusions.
+   * There were few outliers in the data due to which conditional formatting on Percentage funded didn’t show strong conclusions.
 
--Running Pivot tables with various combinations to see which fits best for the required results. The initial results I got had the sum of Ids instead of count of Ids which became a huge task to overcome. I acheived the correct outcome by constantly trying various Pivottable Fields setting.
+   * Running Pivot tables with various combinations to see which fits best for the required results. The initial results I got had the sum of Ids instead of count of Ids which became a huge task to overcome. I acheived the correct outcome by constantly trying various Pivottable Fields setting.
 
 ## Results
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
--Timing of campaign launch is a huge determinant for the outcome of campaigns. It is best to launch a campaign in May and June when there is better response to campaigns. 
+   1. Timing of campaign launch is a huge determinant for the outcome of campaigns. It is best to launch a campaign in May and June when there is better response to campaigns. 
 
--In December and Jaunary the probability of a successful campaign is low as there are not many successful campaigns registered in that period against number of failed campaigns.  
+   2. In December and Jaunary the probability of a successful campaign is low as there are not many successful campaigns registered in that period against number of failed campaigns.  
 
 ### What can you conclude about the Outcomes based on Goals?
 
--Chances of having a successful campaign is higher when the goal is within $10000. 
+   * Chances of having a successful campaign is higher when the goal is within $10000. 
 
--Once the campaign is $15000 and beyond, the outcome of a campaign is highly uncertain. 
+   * Once the campaign is $15000 and beyond, the outcome of a campaign is highly uncertain. 
 
 ### What are some limitations of this dataset?
 
--Key idea of campaign could have been specified in just one or two words instead of a blurb. It can help in analysis and can assist in finding the "why" behind a success or failure 
+   * Key idea of campaign could have been specified in just one or two words instead of a blurb. It can help in analysis and can assist in finding the "why" behind a success or failure 
 
--Data on the marketing tools used to attract audience can also be added. Tools such as flyers, online campaigns, and radio/tv advertisements 
+   * Data on the marketing tools used to attract audience can also be added. Tools such as flyers, online campaigns, and radio/tv advertisements 
 
--Data on target audiences such as their age, income, profession. This can boost chances of a successful campaign
+   * Data on target audiences such as their age, income, profession. This can boost chances of a successful campaign
 
--Data seems to be providing more information on campaigns in categories like theater, music, and film & video/television and less on Journalism, publishing, games, food and photography category. Similarly, more information is available for US and UK campaigns and very few campaigns are from other countries. Equal focus should have been given across all categories in all countries.  
+   * Data seems to be providing more information on campaigns in categories like theater, music, and film & video/television and less on Journalism, publishing, games, food and photography category. Similarly, more information is available for US and UK campaigns and very few campaigns are from other countries. Equal focus should have been given across all categories in all countries.  
 
 ### What are some other possible tables and/or graphs that we could create?
 
--The above analysis covered the year and month the campaign was launched. We can also cover the duration of the campaign. For achieving campaign duration, we can get the number of days between the start date and end date of the campaign and include the derived information in our analysis to check how fast campaigns performed in terms of achieving its goal.
-
--We can remove few outliers and see if it makes any difference in results. 
-
--We can prepare a chart with goal vs pledged information to determine how close the campaigns came in acheiving their goal. This will also help in deciding if setting unreasonable goals is one of the reasons for failure of a campaign or not. 
+   * The above analysis covered the year and month the campaign was launched. We can also cover the duration of the campaign. For achieving campaign duration, we can get the number of days between the start date and end date of the campaign and include the derived information in our analysis to check how fast campaigns performed in terms of achieving its goal.
+   
+   * We can remove few outliers and see if it makes any difference in results. 
+   
+   * We can prepare a chart with goal vs pledged information to determine how close the campaigns came in acheiving their goal. This will also help in deciding if setting unreasonable goals is one of the reasons for failure of a campaign or not. 
