@@ -34,13 +34,13 @@ The following sub-category chart derived from a Pivot table, shows Outcomes of c
  
 Launch Date (specifically the month of the year) has a strong impact on the number of campaigns launched and its outcome. This can be determined by the below pivot chart. Number of successful campaigns launched in May (111), June (100) and July (87) is significantly higher than those in December (37) and January (56). Number of failed campaigns around the year ranges from 33 to 50. Thus, this chart also shows that in colder months, there are fewer campaings launched overall.
 
-![image](https://user-images.githubusercontent.com/108366412/177686379-962c187f-db94-4c88-a4a8-2f2b49f75a30.png)
+![outcomes based on launch date](https://user-images.githubusercontent.com/108366412/177706734-956ea533-1225-41fd-ae95-e896a0b0e33f.png)
 
 ### Analysis of Outcomes Based on Launch Date
 
 The below graph shows even deeper understanding of the outcomes of theater campaigns by launch dates. The number of successful campaigns is more prominent in the months of May (111), June (100), and July (87). Here, it is important to note that the number of failed campaigns is almost same across the year (Ranges between 31 to 50 failed outcomes) but in the month of November, December, Juanuary, and March there are fewer successful campaigns (54, 36, 56, 56 successful campaigns respectively) due to which the success ratio drops in those months. 
 
-![image](https://user-images.githubusercontent.com/108366412/177683327-3f044782-d344-4701-8da4-0c449809d667.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/108366412/177707100-dbd024e0-8283-472a-af3c-bccb06b029b2.png)
 
 ### Analysis of Outcomes Based on Goals
 
