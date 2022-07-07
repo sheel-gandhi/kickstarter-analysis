@@ -1,6 +1,6 @@
 # Kickstarter-analysis
 
-Performing analysis on Kickstarter data to uncover trends
+Performing analysis on Kickstarter data to uncover campaign trends based on specific factors 
 
 ## Overview of Project
 
@@ -20,7 +20,7 @@ Columns such as Percentage funded, Average donation, Date Created Conversion and
 
 ![Kickstarter_added_columns](https://user-images.githubusercontent.com/108366412/177682978-bcb9b9c0-0ec6-4dec-b3ec-2a6aaca23e4b.png)
 
-The following parent category chart derived from a Pivot table, shows Outcomes of campaigns across all parent categories. From the chart, it can be derived that theater category has the highest number of campaigns and has 60% success ratio. Other successful categories are music and film& video. Categories such as Journalism, Food and Publishing has the least number of successful campaigns 
+The following parent category chart derived from a Pivot table, shows Outcomes of campaigns across all parent categories. From the chart, it can be derived that theater category has the highest number of campaigns and has 60% success ratio. Other successful categories are Music and Film & video. Categories such as Journalism, Food and Publishing has the least number of successful campaigns 
 
 ![image](https://user-images.githubusercontent.com/108366412/177681019-fde3d4e4-1492-4459-90f3-1129b2746839.png)
 
@@ -76,7 +76,7 @@ The following chart shows the percentage of successful/failed/cancelled campaign
 
    * Key idea of campaign could have been specified in just one or two words instead of a blurb. It can help in analysis and can assist in finding the "why" behind a success or failure 
 
-   * Data on the marketing tools used to attract audience can also be added. Tools such as flyers, online campaigns, and radio/tv advertisements 
+   * Data on what marketing tools were used to attract audience such as flyers, online campaigns, and radio/tv advertisements can be added.  
 
    * Data on target audiences such as their age, income, profession. This can boost chances of a successful campaign
 
