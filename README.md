@@ -4,7 +4,15 @@ Performing analysis on Kickstarter data to uncover campaign trends based on spec
 
 ## Overview of Project
 
-Playwriter Louise is looking to start a crowd funding campaign to fund her upcoming play “Fever” with a goal of $10000. She wants our assistance to make her campaign successful by analysing information on how different campaigns performed based on the campaign data provided. We will be sorting and filtering the data, preparing various Pivot tables with different combinations, and visualising them with charts
+Playwriter Louise is looking to start a crowd funding campaign to fund her upcoming play “Fever” with a goal of $10000. She wants our assistance to make her campaign successful by analysing information on how different campaigns performed based on the campaign data provided. We will be sorting and filtering the data, preparing various Pivot tables with different combinations, and visualising them with charts. Below points will provide detailed overview
+
+* **Import data into a table for analysis.**
+* **Apply filters, conditional formatting, and formulas.**
+* **Generate and interpret pivot tables.**
+* **Calculate summary statistics such as measures of central tendency, standard deviation, and variance.**
+* **Characterize data to identify outliers in datasets.**
+* **Perform an Excel analysis with visualizations.**
+* **Interpret common Excel visualizations.**
 
 ## Purpose
 
