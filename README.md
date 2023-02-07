@@ -1,6 +1,6 @@
 # Kickstarter-analysis
 
-Performing analysis on Kickstarter data to uncover campaign trends based on specific factors 
+Performing analysis using Excel on Kickstarter data to uncover campaign trends based on specific factors 
 
 ## Overview of Project
 
